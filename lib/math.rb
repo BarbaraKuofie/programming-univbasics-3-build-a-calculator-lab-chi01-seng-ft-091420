@@ -24,6 +24,6 @@ retrun remainder
 end
 
 def square_root(num)
-square = num**
+square = Math.sqrt(num)
 return square
 end
