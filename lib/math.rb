@@ -14,13 +14,16 @@ return div
 end
 
 def multiplication(num1, num2)
-
+multiply = num1 * num2
+return multiply
 end
 
 def modulo(num1, num2)
-
+remainder = num1 % num2
+retrun remainder
 end
 
 def square_root(num)
-
+square = num**
+return square
 end
